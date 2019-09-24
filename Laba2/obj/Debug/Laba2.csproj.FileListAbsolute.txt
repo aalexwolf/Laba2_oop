@@ -1,0 +1,6 @@
+D:\bstu\II\1 sem\Лабораторные ООП\Laba2\Laba2\bin\Debug\Laba2.exe.config
+D:\bstu\II\1 sem\Лабораторные ООП\Laba2\Laba2\bin\Debug\Laba2.exe
+D:\bstu\II\1 sem\Лабораторные ООП\Laba2\Laba2\bin\Debug\Laba2.pdb
+D:\bstu\II\1 sem\Лабораторные ООП\Laba2\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+D:\bstu\II\1 sem\Лабораторные ООП\Laba2\Laba2\obj\Debug\Laba2.exe
+D:\bstu\II\1 sem\Лабораторные ООП\Laba2\Laba2\obj\Debug\Laba2.pdb
